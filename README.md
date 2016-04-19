@@ -7,6 +7,13 @@ Not necessarily awesome, as this is just a (not-so-)trendy naming template for r
 * [BFS by Con Kolivas](http://users.tpg.com.au/ckolivas/kernel/)
  * [BFS/VRQ](http://cchalpha.blogspot.ru/)
 * [BFQ](http://algo.ing.unimo.it/people/paolo/disk_sched/)
+* [BLD](https://github.com/rmullick/bld-patches)
+ * [also as a branch](https://github.com/rmullick/linux)
+* [Jens Axboe's background buffered writeback patches](https://lkml.org/lkml/2016/4/18/11)
+* [Kernel_gcc_patch](https://github.com/graysky2/kernel_gcc_patch)
+* [l7-filter](http://l7-filter.sourceforge.net/)
+* [LinuxIMQ](http://www.linuximq.net/)
+* [Reiser4](https://reiser4.wiki.kernel.org/index.php/Main_Page)
 * [TuxOnIce](http://tuxonice.nigelcunningham.com.au/)
 * [UKSM](http://kerneldedup.org/en/projects/uksm/)
 
