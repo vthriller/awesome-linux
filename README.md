@@ -11,6 +11,7 @@ Not necessarily awesome, as this is just a (not-so-)trendy naming template for r
  * [also as a branch](https://github.com/rmullick/linux)
 * [CONFIG_PREEMPT_RT](https://rt.wiki.kernel.org/index.php/CONFIG_PREEMPT_RT_Patch)
 * [grsecurity](https://grsecurity.net/)
+ * [PaX](https://pax.grsecurity.net/)
 * [Jens Axboe's background buffered writeback patches](https://lkml.org/lkml/2016/4/18/11)
 * [Kernel_gcc_patch](https://github.com/graysky2/kernel_gcc_patch)
 * [l7-filter](http://l7-filter.sourceforge.net/)
