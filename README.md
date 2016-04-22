@@ -9,6 +9,8 @@ Not necessarily awesome, as this is just a (not-so-)trendy naming template for r
 * [BFQ](http://algo.ing.unimo.it/people/paolo/disk_sched/)
 * [BLD](https://github.com/rmullick/bld-patches)
  * [also as a branch](https://github.com/rmullick/linux)
+* [CONFIG_PREEMPT_RT](https://rt.wiki.kernel.org/index.php/CONFIG_PREEMPT_RT_Patch)
+* [grsecurity](https://grsecurity.net/)
 * [Jens Axboe's background buffered writeback patches](https://lkml.org/lkml/2016/4/18/11)
 * [Kernel_gcc_patch](https://github.com/graysky2/kernel_gcc_patch)
 * [l7-filter](http://l7-filter.sourceforge.net/)
@@ -17,7 +19,11 @@ Not necessarily awesome, as this is just a (not-so-)trendy naming template for r
 * [TuxOnIce](http://tuxonice.nigelcunningham.com.au/)
 * [UKSM](http://kerneldedup.org/en/projects/uksm/)
 
-## Branches
+## Trees
+* [mainline](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/)
+* [linux-next](https://git.kernel.org/cgit/linux/kernel/git/next/linux-next.git/)
+* [mm, mmotm](https://git.kernel.org/cgit/linux/kernel/git/mhocko/mm.git/)
+* [linux-libre](https://www.fsfla.org/ikiwiki/selibre/linux-libre/)?
 * [zen-kernel](https://github.com/zen-kernel/zen-kernel)?
 
 ## Modules
