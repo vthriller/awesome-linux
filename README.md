@@ -1,6 +1,6 @@
 # Awesome Linux Kernel
 
-Not necessarily awesome, as this is just a (not-so-)trendy naming template for repos containing lists of links on the particular topic. See also [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
+Not necessarily awesome, as this is just a (not-so-)trendy naming template for repos containing lists of links on particular topic. See also [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 
 ## Patches
 * ~~[ACPI DSDT in initrd](http://gaugusch.at/kernel.shtml)~~? (latest patch is for 2.6.30)
