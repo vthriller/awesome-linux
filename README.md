@@ -14,6 +14,9 @@ Not necessarily awesome, as this is just a (not-so-)trendy naming template for r
  * [PaX](https://pax.grsecurity.net/)
 * [Jens Axboe's background buffered writeback patches](https://lkml.org/lkml/2016/4/18/11)
 * [Kernel_gcc_patch](https://github.com/graysky2/kernel_gcc_patch)
+* [KernelCare](http://patches.kernelcare.com/)
+* kGraft
+* [ksplice](https://oss.oracle.com/ksplice/software/)
 * [l7-filter](http://l7-filter.sourceforge.net/)
 * [LinuxIMQ](http://www.linuximq.net/)
 * [Reiser4](https://reiser4.wiki.kernel.org/index.php/Main_Page)
@@ -29,6 +32,7 @@ Not necessarily awesome, as this is just a (not-so-)trendy naming template for r
 
 ## Modules
 * [ZFS on Linux](http://zfsonlinux.org/) (including SPL)
+* [kpatch](https://github.com/dynup/kpatch)
 * [groeck's device drivers](http://roeck-us.net/linux/drivers/)
  * [Devantech USB-ISS USB to I2C adapter](https://github.com/groeck/devantech)
  * [Silicon Labs Si570](https://github.com/groeck/si570)
