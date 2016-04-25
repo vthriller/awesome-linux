@@ -30,6 +30,17 @@ Not necessarily awesome, as this is just a (not-so-)trendy naming template for r
 * [linux-libre](https://www.fsfla.org/ikiwiki/selibre/linux-libre/)?
 * [zen-kernel](https://github.com/zen-kernel/zen-kernel)?
 
+## Distro specific patches and trees
+* [CentOS](https://git.centos.org/summary/?r=rpms/kernel)
+* [Debian](https://anonscm.debian.org/cgit/kernel/linux.git)
+* [Fedora](http://pkgs.fedoraproject.org/cgit/rpms/kernel.git)
+* [Gentoo](https://gitweb.gentoo.org/proj/linux-patches.git)
+* [Mageia](http://svnweb.mageia.org/packages/cauldron/kernel/current/PATCHES/patches/)
+* [OpenSUSE](http://kernel.opensuse.org/cgit/kernel)
+* [Ubuntu](http://kernel.ubuntu.com/git/ubuntu/linux.git/)
+ * [Ubuntu Xenial](http://kernel.ubuntu.com/git/ubuntu/ubuntu-xenial.git/)
+ * [docs](https://wiki.ubuntu.com/Kernel/Dev/KernelGitGuide)
+
 ## Modules
 * [ZFS on Linux](http://zfsonlinux.org/) (including SPL)
 * [kpatch](https://github.com/dynup/kpatch)
