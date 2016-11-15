@@ -4,12 +4,18 @@ Not necessarily awesome, as this is just a (not-so-)trendy naming template for r
 
 ## Patches
 * ~~[ACPI DSDT in initrd](http://gaugusch.at/kernel.shtml)~~? (latest patch is for 2.6.30)
+* ~~[AUFS](http://aufs.sourceforge.net/)~~
+ * superseded by OverlayFS, which is in the mainline
 * [BFS by Con Kolivas](http://ck.kolivas.org/patches/bfs/)
  * [BFS/VRQ](http://cchalpha.blogspot.ru/) (also on [Bitbucket](https://bitbucket.org/alfredchen/linux-gc))
+ * [MuQSS](http://ck.kolivas.org/patches/muqss/)
+  * [LKML announcement](https://lkml.org/lkml/2016/10/29/4)
 * [BFQ](http://algo.ing.unimo.it/people/paolo/disk_sched/)
 * [BLD](https://github.com/rmullick/bld-patches)
  * [also as a branch](https://github.com/rmullick/linux)
 * [CONFIG_PREEMPT_RT](https://rt.wiki.kernel.org/index.php/CONFIG_PREEMPT_RT_Patch)
+* [fbcondecor](https://gitweb.gentoo.org/proj/linux-patches.git/plain/4200_fbcondecor-3.19.patch?h=4.7)
+ * latest copyright notice is from 2009, but it is still somewhat supported by genpatches (or whatever it is called now) team (as it "[usually requires little effort, and only infrequent changes to the code to match updates made in the kernel framebuffer layer](https://github.com/mjanusz/homepage/tree/master/projects/fbcondecor)")
 * [grsecurity](https://grsecurity.net/)
  * [PaX](https://pax.grsecurity.net/)
 * [Jens Axboe's background buffered writeback patches](https://lkml.org/lkml/2016/4/18/11)
@@ -17,11 +23,20 @@ Not necessarily awesome, as this is just a (not-so-)trendy naming template for r
 * [KernelCare](http://patches.kernelcare.com/)
 * kGraft
 * [ksplice](https://oss.oracle.com/ksplice/software/)
+* [NFS ngroups limitation bypass](http://www.frankvm.com/nfs-ngroups/)
+* [NFS selective attribute caching](http://www.frankvm.com/nfs-noac/)
+* [OpenVZ](http://openvz.org/Main_Page)
 * [l7-filter](http://l7-filter.sourceforge.net/)
 * [LinuxIMQ](http://www.linuximq.net/)
 * [Reiser4](https://reiser4.wiki.kernel.org/index.php/Main_Page)
+* [RIFS scheduler](https://code.google.com/p/rifs-scheduler)
+* [RSBAC](https://www.rsbac.org/)
+* [task_diag](https://github.com/avagin/linux-task-diag)
+ * also on [LKML](https://lwn.net/Articles/683371/) and in the [CRIU wiki](https://criu.org/Task-diag)
 * [TuxOnIce](http://tuxonice.nigelcunningham.com.au/)
 * [UKSM](http://kerneldedup.org/en/projects/uksm/)
+* ~~[UnionFS](http://unionfs.filesystems.org/)~~
+ * superseded by OverlayFS, which is in the mainline
 
 ## Trees
 * [mainline](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/)
@@ -29,6 +44,7 @@ Not necessarily awesome, as this is just a (not-so-)trendy naming template for r
 * [mm, mmotm](https://git.kernel.org/cgit/linux/kernel/git/mhocko/mm.git/)
 * [linux-libre](https://www.fsfla.org/ikiwiki/selibre/linux-libre/)?
 * [zen-kernel](https://github.com/zen-kernel/zen-kernel)?
+ * [Liquorix](https://liquorix.net/sources/)
 
 ## Distro specific patches and trees
 * [CentOS](https://git.centos.org/summary/?r=rpms/kernel)
@@ -42,6 +58,8 @@ Not necessarily awesome, as this is just a (not-so-)trendy naming template for r
  * [docs](https://wiki.ubuntu.com/Kernel/Dev/KernelGitGuide)
 
 ## Modules
+* [DRBD](http://oss.linbit.com/drbd/)
+* [dtrace](https://github.com/dtrace4linux/linux)
 * [ZFS on Linux](http://zfsonlinux.org/) (including SPL)
 * [kpatch](https://github.com/dynup/kpatch)
 * [groeck's device drivers](http://roeck-us.net/linux/drivers/)
