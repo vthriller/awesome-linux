@@ -4,21 +4,21 @@ Not necessarily awesome, as this is just a (not-so-)trendy naming template for r
 
 ## Patches
 * ~~[ACPI DSDT in initrd](http://gaugusch.at/kernel.shtml)~~?
- * latest patch is for 2.6.30
+    * latest patch is for 2.6.30
 * ~~[AUFS](http://aufs.sourceforge.net/)~~
- * superseded by OverlayFS, which is in the mainline
+    * superseded by OverlayFS, which is in the mainline
 * [BFS by Con Kolivas](http://ck.kolivas.org/patches/bfs/)
- * [BFS/VRQ](http://cchalpha.blogspot.ru/) (also on [Bitbucket](https://bitbucket.org/alfredchen/linux-gc))
- * [MuQSS](http://ck.kolivas.org/patches/muqss/)
-  * [LKML announcement](https://lkml.org/lkml/2016/10/29/4)
+    * [BFS/VRQ](http://cchalpha.blogspot.ru/) (also on [Bitbucket](https://bitbucket.org/alfredchen/linux-gc))
+    * [MuQSS](http://ck.kolivas.org/patches/muqss/)
+        * [LKML announcement](https://lkml.org/lkml/2016/10/29/4)
 * [BFQ](http://algo.ing.unimo.it/people/paolo/disk_sched/)
 * [BLD](https://github.com/rmullick/bld-patches)
- * [also as a branch](https://github.com/rmullick/linux)
+    * [also as a branch](https://github.com/rmullick/linux)
 * [CONFIG_PREEMPT_RT](https://rt.wiki.kernel.org/index.php/CONFIG_PREEMPT_RT_Patch)
 * [fbcondecor](https://gitweb.gentoo.org/proj/linux-patches.git/plain/4200_fbcondecor-3.19.patch?h=4.7)
- * latest copyright notice is from 2009, but it is still somewhat supported by genpatches (or whatever it is called now) team (as it "[usually requires little effort, and only infrequent changes to the code to match updates made in the kernel framebuffer layer](https://github.com/mjanusz/homepage/tree/master/projects/fbcondecor)")
+    * latest copyright notice is from 2009, but it is still somewhat supported by genpatches (or whatever it is called now) team (as it "[usually requires little effort, and only infrequent changes to the code to match updates made in the kernel framebuffer layer](https://github.com/mjanusz/homepage/tree/master/projects/fbcondecor)")
 * [grsecurity](https://grsecurity.net/)
- * [PaX](https://pax.grsecurity.net/)
+    * [PaX](https://pax.grsecurity.net/)
 * [Jens Axboe's background buffered writeback patches](https://lkml.org/lkml/2016/4/18/11)
 * [Kernel_gcc_patch](https://github.com/graysky2/kernel_gcc_patch)
 * [KernelCare](http://patches.kernelcare.com/)
@@ -33,11 +33,11 @@ Not necessarily awesome, as this is just a (not-so-)trendy naming template for r
 * [RIFS scheduler](https://code.google.com/p/rifs-scheduler)
 * [RSBAC](https://www.rsbac.org/)
 * [task_diag](https://github.com/avagin/linux-task-diag)
- * also on [LKML](https://lwn.net/Articles/683371/) and in the [CRIU wiki](https://criu.org/Task-diag)
+    * also on [LKML](https://lwn.net/Articles/683371/) and in the [CRIU wiki](https://criu.org/Task-diag)
 * [TuxOnIce](http://tuxonice.nigelcunningham.com.au/)
 * [UKSM](http://kerneldedup.org/en/projects/uksm/)
 * ~~[UnionFS](http://unionfs.filesystems.org/)~~
- * superseded by OverlayFS, which is in the mainline
+    * superseded by OverlayFS, which is in the mainline
 
 ## Trees
 * [mainline](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/)
@@ -45,7 +45,7 @@ Not necessarily awesome, as this is just a (not-so-)trendy naming template for r
 * [mm, mmotm](https://git.kernel.org/cgit/linux/kernel/git/mhocko/mm.git/)
 * [linux-libre](https://www.fsfla.org/ikiwiki/selibre/linux-libre/)?
 * [zen-kernel](https://github.com/zen-kernel/zen-kernel)?
- * [Liquorix](https://liquorix.net/sources/)
+    * [Liquorix](https://liquorix.net/sources/)
 
 ## Distro specific patches and trees
 * [CentOS](https://git.centos.org/summary/?r=rpms/kernel)
@@ -55,8 +55,8 @@ Not necessarily awesome, as this is just a (not-so-)trendy naming template for r
 * [Mageia](http://svnweb.mageia.org/packages/cauldron/kernel/current/PATCHES/patches/)
 * [OpenSUSE](http://kernel.opensuse.org/cgit/kernel)
 * [Ubuntu](http://kernel.ubuntu.com/git/ubuntu/linux.git/)
- * [Ubuntu Xenial](http://kernel.ubuntu.com/git/ubuntu/ubuntu-xenial.git/)
- * [docs](https://wiki.ubuntu.com/Kernel/Dev/KernelGitGuide)
+    * [Ubuntu Xenial](http://kernel.ubuntu.com/git/ubuntu/ubuntu-xenial.git/)
+    * [docs](https://wiki.ubuntu.com/Kernel/Dev/KernelGitGuide)
 
 ## Modules
 * [DRBD](http://oss.linbit.com/drbd/)
@@ -64,8 +64,8 @@ Not necessarily awesome, as this is just a (not-so-)trendy naming template for r
 * [ZFS on Linux](http://zfsonlinux.org/) (including SPL)
 * [kpatch](https://github.com/dynup/kpatch)
 * [groeck's device drivers](http://roeck-us.net/linux/drivers/)
- * [Devantech USB-ISS USB to I2C adapter](https://github.com/groeck/devantech)
- * [Silicon Labs Si570](https://github.com/groeck/si570)
+    * [Devantech USB-ISS USB to I2C adapter](https://github.com/groeck/devantech)
+    * [Silicon Labs Si570](https://github.com/groeck/si570)
 * kdbus
- * [Greg KH](https://github.com/gregkh/kdbus)
- * [systemd](https://github.com/systemd/kdbus)
+    * [Greg KH](https://github.com/gregkh/kdbus)
+    * [systemd](https://github.com/systemd/kdbus)
