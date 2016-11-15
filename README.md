@@ -3,7 +3,8 @@
 Not necessarily awesome, as this is just a (not-so-)trendy naming template for repos containing lists of links on particular topic. See also [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 
 ## Patches
-* ~~[ACPI DSDT in initrd](http://gaugusch.at/kernel.shtml)~~? (latest patch is for 2.6.30)
+* ~~[ACPI DSDT in initrd](http://gaugusch.at/kernel.shtml)~~?
+ * latest patch is for 2.6.30
 * ~~[AUFS](http://aufs.sourceforge.net/)~~
  * superseded by OverlayFS, which is in the mainline
 * [BFS by Con Kolivas](http://ck.kolivas.org/patches/bfs/)
