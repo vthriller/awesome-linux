@@ -19,7 +19,6 @@ Not necessarily awesome, as this is just a (not-so-)trendy naming template for r
     * latest copyright notice is from 2009, but it is still somewhat supported by genpatches (or whatever it is called now) team (as it "[usually requires little effort, and only infrequent changes to the code to match updates made in the kernel framebuffer layer](https://github.com/mjanusz/homepage/tree/master/projects/fbcondecor)")
 * [grsecurity](https://grsecurity.net/)
     * [PaX](https://pax.grsecurity.net/)
-* [Jens Axboe's background buffered writeback patches](https://lkml.org/lkml/2016/4/18/11)
 * [Kernel_gcc_patch](https://github.com/graysky2/kernel_gcc_patch)
 * [KernelCare](http://patches.kernelcare.com/)
 * kGraft
@@ -38,6 +37,10 @@ Not necessarily awesome, as this is just a (not-so-)trendy naming template for r
 * [UKSM](http://kerneldedup.org/en/projects/uksm/)
 * ~~[UnionFS](http://unionfs.filesystems.org/)~~
     * superseded by OverlayFS, which is in the mainline
+* [wb-buf-throttle](http://brick.kernel.dk/snaps/)
+    * can be found under the name `wb-buf-throttle-*.patch`
+    * [also as a branch per each version](http://git.kernel.dk/cgit/linux-block/log/?h=wb-buf-throttle-v7)
+    * [recent LKML announcement](https://lkml.org/lkml/2016/9/7/418)
 
 ## Trees
 * [mainline](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/)
