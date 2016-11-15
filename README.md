@@ -4,8 +4,8 @@ Not necessarily awesome, as this is just a (not-so-)trendy naming template for r
 
 ## Patches
 * ~~[ACPI DSDT in initrd](http://gaugusch.at/kernel.shtml)~~? (latest patch is for 2.6.30)
-* [BFS by Con Kolivas](http://users.tpg.com.au/ckolivas/kernel/)
- * [BFS/VRQ](http://cchalpha.blogspot.ru/)
+* [BFS by Con Kolivas](http://ck.kolivas.org/patches/bfs/)
+ * [BFS/VRQ](http://cchalpha.blogspot.ru/) (also on [Bitbucket](https://bitbucket.org/alfredchen/linux-gc))
 * [BFQ](http://algo.ing.unimo.it/people/paolo/disk_sched/)
 * [BLD](https://github.com/rmullick/bld-patches)
  * [also as a branch](https://github.com/rmullick/linux)
