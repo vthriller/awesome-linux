@@ -33,7 +33,7 @@ Not necessarily awesome, as this is just a (not-so-)trendy naming template for r
 * [RSBAC](https://www.rsbac.org/)
 * [task_diag](https://github.com/avagin/linux-task-diag)
     * also on [LKML](https://lwn.net/Articles/683371/) and in the [CRIU wiki](https://criu.org/Task-diag)
-* [TuxOnIce](http://tuxonice.nigelcunningham.com.au/)
+* [TuxOnIce](https://gitlab.com/nigelcunningham/tuxonice-kernel/-/branches)
 * [UKSM](http://kerneldedup.org/en/projects/uksm/)
 * ~~[UnionFS](http://unionfs.filesystems.org/)~~
     * superseded by OverlayFS, which is in the mainline
