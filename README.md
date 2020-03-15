@@ -58,7 +58,17 @@ Not necessarily awesome, as this is just a (not-so-)trendy naming template for r
 * [Mageia](http://svnweb.mageia.org/packages/cauldron/kernel/current/PATCHES/patches/)
 * [OpenSUSE](http://kernel.opensuse.org/cgit/kernel)
 * [Ubuntu](http://kernel.ubuntu.com/git/ubuntu/linux.git/)
-    * [Ubuntu Xenial](http://kernel.ubuntu.com/git/ubuntu/ubuntu-xenial.git/)
+    * trees for [12.04](https://git.launchpad.net/~ubuntu-kernel/ubuntu/+source/linux/+git/precise)
+      ([mirror](https://kernel.ubuntu.com/git/ubuntu/ubuntu-precise.git/)),
+      [14.04](https://git.launchpad.net/~ubuntu-kernel/ubuntu/+source/linux/+git/trusty)
+      ([mirror](https://kernel.ubuntu.com/git/ubuntu/ubuntu-trusty.git/)),
+      [16.04](https://git.launchpad.net/~ubuntu-kernel/ubuntu/+source/linux/+git/xenial)
+      ([mirror](https://kernel.ubuntu.com/git/ubuntu/ubuntu-xenial.git/)),
+      [18.04](https://git.launchpad.net/~ubuntu-kernel/ubuntu/+source/linux/+git/bionic)
+      ([mirror](https://kernel.ubuntu.com/git/ubuntu/ubuntu-bionic.git/)),
+      [20.04](https://git.launchpad.net/~ubuntu-kernel/ubuntu/+source/linux/+git/focal)
+      ([mirror](https://kernel.ubuntu.com/git/ubuntu/ubuntu-focal.git/));
+      also available for other releases (on kernel.ubuntu.com it's sometimes under ubuntu-archive, e.g. [8.10](https://kernel.ubuntu.com/git/ubuntu-archive/ubuntu-intrepid.git/))
     * [docs](https://wiki.ubuntu.com/Kernel/Dev/KernelGitGuide)
 
 ## Modules
