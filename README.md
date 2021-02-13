@@ -51,7 +51,7 @@ Not necessarily awesome, as this is just a (not-so-)trendy naming template for r
     * [Liquorix](https://liquorix.net/sources/)
 
 ## Distro specific patches and trees
-* [CentOS](https://git.centos.org/summary/?r=rpms/kernel)
+* [CentOS](https://git.centos.org/rpms/kernel/branches)
 * [Debian](https://anonscm.debian.org/cgit/kernel/linux.git)
 * [Fedora](http://pkgs.fedoraproject.org/cgit/rpms/kernel.git)
 * [Gentoo](https://gitweb.gentoo.org/proj/linux-patches.git)
